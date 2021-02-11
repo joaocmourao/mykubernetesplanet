@@ -1,4 +1,4 @@
-package com.mydeveloperplanet.mykubernetesplanet;
+package com.jmourao.mykubernetesplanet;
 
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;

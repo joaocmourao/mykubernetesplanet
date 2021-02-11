@@ -1,4 +1,4 @@
-package com.mydeveloperplanet.mykubernetesplanet;
+package com.jmourao.mykubernetesplanet;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
